@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HemanthSR524/leetcode/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/HemanthSR524/leetcode/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/HemanthSR524/leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/HemanthSR524/leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HemanthSR524/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/HemanthSR524/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/HemanthSR524/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
