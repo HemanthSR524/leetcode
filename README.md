@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HemanthSR524/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/HemanthSR524/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/HemanthSR524/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/HemanthSR524/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HemanthSR524/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HemanthSR524/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HemanthSR524/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HemanthSR524/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/HemanthSR524/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HemanthSR524/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HemanthSR524/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
