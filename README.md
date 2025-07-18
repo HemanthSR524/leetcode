@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HemanthSR524/leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/HemanthSR524/leetcode/tree/master/0054-spiral-matrix) |
+| [0152-maximum-product-subarray](https://github.com/HemanthSR524/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/HemanthSR524/leetcode/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/HemanthSR524/leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/HemanthSR524/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/HemanthSR524/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
